@@ -1,4 +1,4 @@
-<h2> Aryan Parashar's Portfolio </h2>
+<h2> Harkamalvir Singh chahal's Portfolio </h2>
 
 ## Welcome! 👋
 
@@ -6,48 +6,38 @@ Welcome to my GitHub portfolio! Here you'll discover a showcase of my passion fo
 
 ## About Me 
 
-I am Aryan Parashar, a highly motivated and results-driven individual with a Bachelor's degree in Computer Science Engineering, specializing in Cybersecurity and Blockchain Technology. With a strong foundation in technology and a keen interest in cybersecurity, I am constantly exploring new challenges and seeking opportunities to expand my knowledge and expertise.
+I am Harkamalvir singh, a driven and goal-oriented professional with a Bachelor’s degree in Computer Science Engineering, specializing in Cybersecurity and Blockchain Technology. With a solid technical foundation and a deep passion for cybersecurity, I am continually seeking new challenges and opportunities to enhance my skills, broaden my knowledge, and stay at the forefront of innovation in the field.
 
 ## Certifications 🎓
 
 •⁠  ⁠IBM Cyber Security Analyst Professional Certification
-•⁠  ⁠EC Council Certified Ethical Hacker Version 12 (CEHv.12)
+•⁠ ⁠ Google Cyber Security Professional Certifications
 •⁠  ⁠Cisco Certified Junior Cyber Security Analyst
-•⁠  ⁠Certified Windows Forensics Expert, CFCS2R
-•⁠  ⁠Ethical Hacking Elite Certification, IIT KGP
-•⁠  ⁠Google Cyber Security Professional Certifications
+•⁠  ⁠Personal Development Certifications (Time Management, Leadership Skills, Public Speaking, etc.)
 •⁠  ⁠(ISC)2 Certified in Cybersecurity - CC
 
 ## Professional Experience 💼
 
-### Computer Emergency Response Team - India(CERT-In), Ministry of Electronics and Information Technology(MeitY)
-•⁠  ⁠Contributed solely to critical Governmental Projects aimed to secure the national digital infrastructure, developed an automation script using Machine Learning under MeitY focused to perform targeted  Vulnerability Assessment scans for all NIC and GOV.in top level domains and reporting patches to respective ministries. Scans covered OWASP Top 10 vulnerabilities and Content Management System(CMS) based shortfalls and latest ODVs. Further scopes include scaling VA pool for all specific TLDs and SLDs on internet. 
+### Blockchain-Based Identity Verification System
+•⁠Built a decentralized platform leveraging blockchain technology to enable secure, tamper-resistant identity management, enhancing data integrity and user privacy.
 
+### ⁠Blockchain-Based Voting System
+•⁠Developed a secure voting platform powered by blockchain to ensure transparency, data immutability, and election integrity throughout the voting
 
-### Shadowfox Ltd.
-•⁠  ⁠As a VAPT professional, I performed Web Application vulnerability assessment and identify vulnerabilities, uncovered hidden directories with DirBuster and Gobuster, and intercepted network traffic with Wireshark to extract plaintext credentials. Decrypted Veracrypt-encrypted files by cracking the password hash and identified the entry point of a Veracrypt executable with PE Explorer. Additionally, created a payload with Metasploit to establish a reverse shell connection from a Windows 10 virtual machine, conducted a deauthentication attack, captured the WPA handshake, and cracked the Wi-Fi password using Aircrack-ng. Documentation work included preparing VAPT report following OffSec's Template.
-
-### Tata Consultancy Services
-•⁠  ⁠As an IAM Developer, I fortified cybersecurity for TechCorp Enterprises within the Tata Group. I led IAM readiness assessments, tailored solution designs, and implemented advanced RBAC models, significantly enhancing cybersecurity posture.
-
-### Mastercard Inc.
-•⁠  ⁠At Mastercard, I served as a Phishing Threat Intelligence Analyst, implementing targeted training courses and procedures to mitigate phishing attacks and enhance overall security posture.
+### ⁠Face Recognition System:
+•⁠Implemented a machine learning-based face recognition solution for enhanced access control and authentication, improving security through biometric verification.
 
 ## Education 📚
 
-•⁠  ⁠Bachelor of Technology in Computer Science Engineering, specializing in Cybersecurity and Blockchain Technology, under Rajiv Gandhi Technical University, Bhopal.
-•⁠  ⁠AISSE and AISSCE, under CBSE.
+•⁠  ⁠Bachelor of Engineering in Computer Science Engineering, specializing in Cybersecurity, under Chandigarh University, Gharuan.
+•⁠  ⁠GD Goenka Global School, under CBSE.
 
 ## Resume
-[Aryan Parashar's Resume](https://www.canva.com/design/DAF-dcHc0cU/pQ1Q4vcFpUP3ubqTE-ABHQ/view?utm_content=DAF-dcHc0cU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Harkamalvir Singh's Resume](https://drive.google.com/file/d/1mOKTr51NOQW-caENRXinzTf6mx8BrAQx/view)
 
-
-## Seeking Opportunities 🌟
-
-I am currently seeking summer internships in Cyber Defense domains at reputed organizations. I am eager to apply my skills and experiences to innovative projects and make meaningful contributions to the cybersecurity landscape.
 
 ## Connect with Me 📧
 
-Feel free to reach out to me via email at aryan25ic011@satiengg.in or connect with me on LinkedIn for further discussion and collaboration opportunities.
+You can reach me at Harkamalchahl8085@gmail.com or connect with me on LinkedIn to discuss ideas and explore collaboration opportunities.
 
-Let's innovate and secure the future together!
+Together, let’s innovate and create a secure future!
